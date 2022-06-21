@@ -16,22 +16,22 @@ Information
 </br>
 
 ## What is this repository?
----------
+
 A repository for the purpose of storing tips, tricks and useful knowledge for myself and maybe other Software Engineers.
 </br></br>
 
 ## The best skill for a Software Engineer
----------
+
 The best skill you can have as a Software Engineer it's the ability to focus on your studies, your work and turn off your mobile or put it on airplane mode while you study/work.
 </br></br>
 
 ## Build a Project
----------
+
 Don't be dependent on video tutorials, text tutorials, etc. The main point in studying programming is to create something! Build a project when you feel ready, when you have an idea, it doesn't have to be a unique idea, it doesn't have to be a brilliant idea, or even a revolutionary one, just needs to be a starting point for you to go deep into your studies and start building something, your own project, with your own code that does what you would like it to do.
 </br></br>
 
 ## Skills you must have to be a true Software Engineer
----------
+
 Well, here are some of my heartfelt recommendations on what I think is important for you to consider yourself what I like to call <strong>a true Software Engineer</strong>.
 
 You will definitely need some knowledge that is fundamental to the field.
@@ -53,7 +53,6 @@ There are also some stuff I considerate important like:
 </br></br>
 
 ## Good websites to practice coding
------
 
 ### **Free**
 <br>
@@ -81,7 +80,6 @@ There are also some stuff I considerate important like:
 </br>
 
 ## 5 Tips for Junior Software Engineers
------
 
 1. Take the time you feel you need to restructure and adapt your learning within the programming area, be free and feel good about it.
 2. Don't be shy to comment your code while you are studying so it's clear to you what you're doing, things are made of levels and should scale that way.
@@ -91,21 +89,18 @@ There are also some stuff I considerate important like:
 <br><br>
 
 ## How to be a successful Software Engineer
------
 
 To succeed in life you need to focus on what really matters, and what really matters is what you want to do. You should never care about what people think, say or how other people will judge you.
 
 <br><br>
 
 ## The Best Searching Engine for Software Engineers
------
 
 Today I bring to you guys the definitive tool for Software Engineers, Developers and such, <strong>behold the [YouCode](https://you.com/code "Best searching engine for Developers, Software Engineers and Data Scientists")</strong>! Using this little bad boy you can let AI generate code based on your searched query, you can literally find code snippets with accessible copy and paste buttons.
 
 <br><br>
 
 ## Senior Software Engineer Tips
------
 
 - Beware with programmers with that "God complex" who assume they have the solution to every problem or even a unique and miraculous code capable of doing what no other code has ever done.
 - If you need to repeat any sequence of code more than ten times you should definitely think of ways to automate it.
