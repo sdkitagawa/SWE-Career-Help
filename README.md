@@ -12,7 +12,7 @@ Information
   - [Good Websites to practice coding](#good-websites-to-practice-coding)
   - [5 Tips for Junior Software Engineer](#5-tips-for-junior-software-engineers)
   - [How to be a successful Software Engineer](#how-to-be-a-successful-software-engineer)
-  - [Senior Software Engineer Tips](#senior-software-engineer-tips)
+  - [Best Software Engineer Tips](#best-software-engineer-tips)
 </br>
 
 ## What is this repository?
@@ -100,7 +100,7 @@ Today I bring to you guys the definitive tool for Software Engineers, Developers
 
 <br><br>
 
-## Senior Software Engineer Tips
+## Best Software Engineer Tips
 
 - Beware with programmers with that "God complex" who assume they have the solution to every problem or even a unique and miraculous code capable of doing what no other code has ever done.
 - If you need to repeat any sequence of code more than ten times you should definitely think of ways to automate it.
