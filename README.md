@@ -12,25 +12,23 @@ Information
   - [Good Websites to practice coding](#good-websites-to-practice-coding)
   - [5 Tips for Junior Software Engineer](#5-tips-for-junior-software-engineers)
   - [How to be a successful Software Engineer](#how-to-be-a-successful-software-engineer)
+  - [Senior Software Engineer Tips](#senior-software-engineer-tips)
 </br>
 
 ## What is this repository?
 ---------
 A repository for the purpose of storing tips, tricks and useful knowledge for myself and maybe other Software Engineers.
-</br>
-</br>
+</br></br>
 
 ## The best skill for a Software Engineer
 ---------
 The best skill you can have as a Software Engineer it's the ability to focus on your studies, your work and turn off your mobile or put it on airplane mode while you study/work.
-</br>
-</br>
+</br></br>
 
 ## Build a Project
 ---------
-Don't be dependent on video tutorials, text tutorials, etc. The main point in studying programming is to create something! Build a project when you feel ready, when you have an idea, it doesn’t have to be a unique idea, it doesn’t have to be a brilliant idea, or even a revolutionary one, just needs to be a starting point for you to go deep into your studies and start building something, your own project, with your own code that does what you would like it to do.
-</br>
-</br>
+Don't be dependent on video tutorials, text tutorials, etc. The main point in studying programming is to create something! Build a project when you feel ready, when you have an idea, it doesn't have to be a unique idea, it doesn't have to be a brilliant idea, or even a revolutionary one, just needs to be a starting point for you to go deep into your studies and start building something, your own project, with your own code that does what you would like it to do.
+</br></br>
 
 ## Skills you must have to be a true Software Engineer
 ---------
@@ -52,8 +50,7 @@ There are also some stuff I considerate important like:
 - You need to be able to sequence and prioritize what needs to be done first and what can be done later.
 - You definitely need to be able to decompose a big problem into a smaller problem.
 - You need to know how to work well in a team! Remember, even if you're good on your own, a job well done and as a team can have amazing results!
-</br>
-</br>
+</br></br>
 
 ## Good websites to practice coding
 -----
@@ -61,28 +58,26 @@ There are also some stuff I considerate important like:
 ### **Free**
 <br>
 
-1. Definitely one of the best websites for online learning in general in my opinion, there are tones of degrees, courses with certificates and 100% at [Coursera](https://coursera.org/ "Degrees, Certificates, & Free Online Courses").
-2. Improve your career and also your tech skills at [Udacity](https://udacity.com/ "Learn the Latest Tech Skills; Advance Your Career").
-3. computer Science Fundamentals, Logic, Algorithm Fundamentals, Programming with Python, Data Structures, Introduction to Neural Networks, Artificial Neural Networks and many many more free stuff at [Brillant](https://brilliant.org/ "Learn interactively").
-4. One of the best online courses out there in the field of programming, perfect for beginners who want to learn and build their first project at [CS50 from Harvard University](https://cs50.harvard.edu/x/2022/ "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.").
-5. Angular, Java, Spring and other courses at [loiane.training](https://loiane.training/ "Angular, Java, Spring and other courses").
-6. Learn how to code for free, build your own projects and also earn certifications at [freeCodeCamp](https://freecodecamp.org/ "Front-end Development of high quality and totally free").
-7. If you are new into the area and wanna learn or just practice your Front-End Web Development skills I recommend [Code Academy](https://codecademy.com/ "Learn to code for free").
-8. For those looking for a challenges about Front-end Web Development I'd definitely recommend [Frontend Mentor](https://frontendmentor.io/challenges "Front-end coding challenges using a real-life workflow").
-9. If you are looking for something more into Data Science area I recommend you to check [swirl](https://swirlstats.com/challenges "Learn R, in R.").
-10. If you are looking for something more into Data Science area I recommend you to check [Flatiron School](https://flatironschool.com/ "Free online school for Mobile Developers").
+1. Definitely one of the best websites for online learning in general in my opinion, there are tones of degrees, courses with certificates and 100% at <strong>[Coursera](https://coursera.org/ "Degrees, Certificates, & Free Online Courses").</strong>
+2. Improve your career and also your tech skills at <strong>[Udacity](https://udacity.com/ "Learn the Latest Tech Skills; Advance Your Career").</strong>
+3. computer Science Fundamentals, Logic, Algorithm Fundamentals, Programming with Python, Data Structures, Introduction to Neural Networks, Artificial Neural Networks and many many more free stuff at <strong>[Brillant](https://brilliant.org/ "Learn interactively").</strong>
+4. One of the best online courses out there in the field of programming, perfect for beginners who want to learn and build their first project at <strong>[CS50 from Harvard University](https://cs50.harvard.edu/x/2022/ "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.").</strong>
+5. Angular, Java, Spring and other courses at <strong>[loiane.training](https://loiane.training/ "Angular, Java, Spring and other courses").</strong>
+6. Learn how to code for free, build your own projects and also earn certifications at <strong>[freeCodeCamp](https://freecodecamp.org/ "Front-end Development of high quality and totally free").</strong>
+7. If you are new into the area and wanna learn or just practice your Front-End Web Development skills I recommend <strong>[Code Academy](https://codecademy.com/ "Learn to code for free").</strong>
+8. For those looking for a challenges about Front-end Web Development I'd definitely recommend <strong>[Frontend Mentor](https://frontendmentor.io/challenges "Front-end coding challenges using a real-life workflow").</strong>
+9. If you are looking for something more into Data Science area I recommend you to check <strong>[swirl](https://swirlstats.com/challenges "Learn R, in R.").</strong>
+10. If you are looking for something more into Data Science area I recommend you to check <strong>[Flatiron School](https://flatironschool.com/ "Free online school for Mobile Developers").</strong>
 
-<br>
 <br>
 
 ### **Premium**
 <br>
 
-1. Learn all the Computer Science Fundamentals and complete a Bachelor Degree at [Coursera Bachelor of Computer Science by the University of London](https://coursera.org/degrees/bachelor-of-science-computer-science-london "Complete a Bachelor Degree by the University of London").
-2. Learn JavaScript and Discord Bots stuff with Alex Flores one of the best JavaScript Developers I've ever seen in my entire life, please check [Worn Off Keys](https://courses.wornoffkeys.com/ "Worn off keys courses").
-3. Learn all you need to get your programming skills to the next level with TechLead an Ex-Google and Ex-Facebook Software Engineer and also a billionaire who is without a doubt an excellent programmer. [Tech Interview Pro](https://www.techseries.dev/ "Learn the real secrets to passing the tech interview.").
+1. Learn all the Computer Science Fundamentals and complete a Bachelor Degree at <strong>[Coursera Bachelor of Computer Science by the University of London](https://coursera.org/degrees/bachelor-of-science-computer-science-london "Complete a Bachelor Degree by the University of London").</strong>
+2. Learn JavaScript and Discord Bots stuff with Alex Flores one of the best JavaScript Developers I've ever seen in my entire life, please check <strong>[Worn Off Keys](https://courses.wornoffkeys.com/ "Worn off keys courses").</strong>
+3. Learn all you need to get your programming skills to the next level with TechLead an Ex-Google and Ex-Facebook Software Engineer and also a billionaire who is without a doubt an excellent programmer. <strong>[Tech Interview Pro](https://www.techseries.dev/ "Learn the real secrets to passing the tech interview.").</strong>
 
-</br>
 </br>
 
 ## 5 Tips for Junior Software Engineers
@@ -93,9 +88,33 @@ There are also some stuff I considerate important like:
 3. Be the person who asks questions, ask lots of questions, gather information and take proper notes accurately and clearly in your note, be accurate and effective.
 4. During your study sessions, only move on to a new topic when you feel comfortable with something. For example, if you are studying more about <strong>Data Structures</strong>, stick with it until you feel comfortable and confident about this topic, when you feel comfortable you move on to new content.
 5. Don't be ashamed of searching for something or just asking someone else about a topic you're not that good! <strong>We are no encyclopedias!</strong>
-<br>
+<br><br>
 
 ## How to be a successful Software Engineer
 -----
 
 To succeed in life you need to focus on what really matters, and what really matters is what you want to do. You should never care about what people think, say or how other people will judge you.
+
+<br><br>
+
+## The Best Searching Engine for Software Engineers
+-----
+
+Today I bring to you guys the definitive tool for Software Engineers, Developers and such, <strong>behold the [YouCode](https://you.com/code "Best searching engine for Developers, Software Engineers and Data Scientists")</strong>! Using this little bad boy you can let AI generate code based on your searched query, you can literally find code snippets with accessible copy and paste buttons.
+
+<br><br>
+
+## Senior Software Engineer Tips
+-----
+
+- Beware with programmers with that "God complex" who assume they have the solution to every problem or even a unique and miraculous code capable of doing what no other code has ever done.
+- If you need to repeat any sequence of code more than ten times you should definitely think of ways to automate it.
+- Make your code easy to read, like:
+  - Use variable names that make sense.
+  - Use Camel Case Notation.
+  - Avoid unnecessary comment lines, make objective comments with things like a briefing of what your code does, credits, what data type your function returns via a header.
+  - Don't comment line by line.
+    - In-line commenting is one thing, the line-by-line comment makes the code look almost unreadable.
+    - If you feel like it's necessary to document, use one single line at the top of your code or just use a multi-line comment.
+  - Use your comments to warn developers about possible code breaks about some legacy code or stuff like that.
+  - Never leave bad written and old code commented out in the middle of all the rest of your code.
