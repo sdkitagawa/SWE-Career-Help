@@ -1,6 +1,6 @@
 
-# SE Coding Help
-## Software Engineering Coding Help
+# SE Career Help
+## Software Engineering Career Help
 ---------
 
 Information
