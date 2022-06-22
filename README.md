@@ -10,9 +10,10 @@ Information
   - [Build a Project](#build-a-project)
   - [Skills you must have to be a true Software Engineer](#skills-you-must-have-to-be-a-true-software-engineer)
   - [Good Websites to practice coding](#good-websites-to-practice-coding)
-  - [5 Tips for Junior Software Engineer](#5-tips-for-junior-software-engineers)
+  - [5 Tips for a Junior Software Engineer](#5-tips-for-a-junior-software-engineers)
   - [How to be a successful Software Engineer](#how-to-be-a-successful-software-engineer)
   - [Best Software Engineer Tips](#best-software-engineer-tips)
+  - [4 Tips for the Work Environment as a Software Engineer](#4-tips-for-the-work-environment-as-a-software-engineer)
 </br>
 
 ## What is this repository?
@@ -27,7 +28,7 @@ The best skill you can have as a Software Engineer it's the ability to focus on 
 
 ## Build a Project
 
-Don't be dependent on video tutorials, text tutorials, etc. The main point in studying programming is to create something! Build a project when you feel ready, when you have an idea, it doesn't have to be a unique idea, it doesn't have to be a brilliant idea, or even a revolutionary one, just needs to be a starting point for you to go deep into your studies and start building something, your own project, with your own code that does what you would like it to do.
+Don't be dependent on video tutorials, text tutorials and etc. The main point in studying programming is to create something! Build a project when you feel ready, when you have an idea, it doesn't have to be a unique idea, it doesn't have to be a brilliant idea or even a revolutionary one just needs to be a starting point for you to go deep into your studies and start building something, your own project with your own code that does what you would like it to do.
 </br></br>
 
 ## Skills you must have to be a true Software Engineer
@@ -57,16 +58,16 @@ There are also some stuff I considerate important like:
 ### **Free**
 <br>
 
-1. Definitely one of the best websites for online learning in general in my opinion, there are tones of degrees, courses with certificates and 100% at <strong>[Coursera](https://coursera.org/ "Degrees, Certificates, & Free Online Courses").</strong>
+1. Definitely one of the best websites for online learning in general in my opinion there are tones of degrees, courses with certificates and `100%` free at <strong>[Coursera](https://coursera.org/ "Degrees, Certificates, & Free Online Courses").</strong>
 2. Improve your career and also your tech skills at <strong>[Udacity](https://udacity.com/ "Learn the Latest Tech Skills; Advance Your Career").</strong>
-3. computer Science Fundamentals, Logic, Algorithm Fundamentals, Programming with Python, Data Structures, Introduction to Neural Networks, Artificial Neural Networks and many many more free stuff at <strong>[Brillant](https://brilliant.org/ "Learn interactively").</strong>
-4. One of the best online courses out there in the field of programming, perfect for beginners who want to learn and build their first project at <strong>[CS50 from Harvard University](https://cs50.harvard.edu/x/2022/ "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.").</strong>
+3. Computer Science Fundamentals, Logic, Algorithm Fundamentals, Programming with Python, Data Structures, Artificial Neural Networks and many many more free stuff at <strong>[Brillant](https://brilliant.org/ "Learn interactively").</strong>
+4. One of the best online courses out there in the field of programming, perfect for beginners who wanna learn and build their first project at <strong>[CS50 from Harvard University](https://cs50.harvard.edu/x/2022/ "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.").</strong>
 5. Angular, Java, Spring and other courses at <strong>[loiane.training](https://loiane.training/ "Angular, Java, Spring and other courses").</strong>
 6. Learn how to code for free, build your own projects and also earn certifications at <strong>[freeCodeCamp](https://freecodecamp.org/ "Front-end Development of high quality and totally free").</strong>
 7. If you are new into the area and wanna learn or just practice your Front-End Web Development skills I recommend <strong>[Code Academy](https://codecademy.com/ "Learn to code for free").</strong>
 8. For those looking for a challenges about Front-end Web Development I'd definitely recommend <strong>[Frontend Mentor](https://frontendmentor.io/challenges "Front-end coding challenges using a real-life workflow").</strong>
 9. If you are looking for something more into Data Science area I recommend you to check <strong>[swirl](https://swirlstats.com/challenges "Learn R, in R.").</strong>
-10. If you are looking for something more into Data Science area I recommend you to check <strong>[Flatiron School](https://flatironschool.com/ "Free online school for Mobile Developers").</strong>
+10. And last but not least if you are looking for something more into Data Science area I recommend you to check <strong>[Flatiron School](https://flatironschool.com/ "Free online school for Mobile Developers").</strong>
 
 <br>
 
@@ -79,24 +80,24 @@ There are also some stuff I considerate important like:
 
 </br>
 
-## 5 Tips for Junior Software Engineers
+## 5 Tips for a Junior Software Engineers
 
 1. Take the time you feel you need to restructure and adapt your learning within the programming area, be free and feel good about it.
 2. Don't be shy to comment your code while you are studying so it's clear to you what you're doing, things are made of levels and should scale that way.
-3. Be the person who asks questions, ask lots of questions, gather information and take proper notes accurately and clearly in your note, be accurate and effective.
-4. During your study sessions, only move on to a new topic when you feel comfortable with something. For example, if you are studying more about <strong>Data Structures</strong>, stick with it until you feel comfortable and confident about this topic, when you feel comfortable you move on to new content.
-5. Don't be ashamed of searching for something or just asking someone else about a topic you're not that good! <strong>We are no encyclopedias!</strong>
+3. Be the person who asks questions, ask lots of questions, gather information and take proper notes accurately and clearly in your notes, be accurate and effective.
+4. During your study sessions, only move on to a new topic when you feel comfortable with something. For example if you are studying more about <strong>Data Structures</strong>, stick with it until you feel comfortable and confident about this topic when you feel comfortable you move on to new content.
+5. Don't be ashamed of searching for something or just asking someone else about a topic you're not that good! `We are no encyclopedias!`
 <br><br>
 
 ## How to be a successful Software Engineer
 
-To succeed in life you need to focus on what really matters, and what really matters is what you want to do. You should never care about what people think, say or how other people will judge you.
+To succeed in life you need to focus on what really matters and what really matters is what you wanna do. You should never care about what people think, say or how other people will judge you.
 
 <br><br>
 
 ## The Best Searching Engine for Software Engineers
 
-Today I bring to you guys the definitive tool for Software Engineers, Developers and such, <strong>behold the [YouCode](https://you.com/code "Best searching engine for Developers, Software Engineers and Data Scientists")</strong>! Using this little bad boy you can let AI generate code based on your searched query, you can literally find code snippets with accessible copy and paste buttons.
+This time I bring to you guys the definitive tool for Software Engineers, Developers and such <strong>behold the [YouCode](https://you.com/code "Best searching engine for Developers, Software Engineers and Data Scientists")</strong>! Using this little bad boy you can let AI generate code based on your searched query, you can literally find code snippets with accessible copy and paste buttons.
 
 <br><br>
 
@@ -113,3 +114,13 @@ Today I bring to you guys the definitive tool for Software Engineers, Developers
     - If you feel like it's necessary to document, use one single line at the top of your code or just use a multi-line comment.
   - Use your comments to warn developers about possible code breaks about some legacy code or stuff like that.
   - Never leave bad written and old code commented out in the middle of all the rest of your code.
+
+<br><br>
+
+## 4 Tips for the Work Environment as a Software Engineer
+
+- Improve every day of your life at least about `0.27%` and so at the end of the year you will have an improvement of around `98%` of yourself, be always in constant evolution and avoid daily as a person and as a professional, read books, take courses, study frameworks, languages and build projects!
+- Never rely on `90%` or more of your paycheck for a healthy life otherwise if you lose your job it will make losing your job even more painful, frustrating and such.
+- Work is not about friendship, family, a goal or even a dream, work is about exchanging your time for money.
+- Separate your work gear from your home gear.
+  - For example, let's suppose you use the computer/laptop of your company for work. Always try to keep your documents, photos, or personal stuff on your personal computer/laptop, cloud systems, but never ever store your personal stuff on a work gear.
