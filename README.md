@@ -1,10 +1,9 @@
 
 # SE Career Help
 ## Software Engineering Career Help
----------
 
 Information
----------
+---
   - [What is this repository?](#what-is-this-repository)
   - [The best skill for a Software Engineer](#the-best-skill-for-a-software-engineer)
   - [Build a Project](#build-a-project)
