@@ -1,6 +1,5 @@
-
 # SE Career Help
-## Software Engineering Career Help
+## Software Engineering - Career Help
 
 Information
 ---
@@ -13,6 +12,17 @@ Information
   - [How to be a successful Software Engineer](#how-to-be-a-successful-software-engineer)
   - [Best Software Engineer Tips](#best-software-engineer-tips)
   - [4 Tips for the Work Environment as a Software Engineer](#4-tips-for-the-work-environment-as-a-software-engineer)
+  - [Credits](#credits)
+  - [Creator](#creator)
+  - [Collaborators](#collaborators)
+  - [License](#licence)
+</br>
+
+Also available in:
+---
+  - [Spanish](./es/README.md)
+  - [Portuguese](./pt-br/README.md)
+  - [Japanese](./jp/README.md)
 </br>
 
 ## What is this repository?
@@ -66,7 +76,7 @@ There are also some stuff I considerate important like:
 7. If you are new into the area and wanna learn or just practice your Front-End Web Development skills I recommend <strong>[Code Academy](https://codecademy.com/ "Learn to code for free").</strong>
 8. For those looking for a challenges about Front-end Web Development I'd definitely recommend <strong>[Frontend Mentor](https://frontendmentor.io/challenges "Front-end coding challenges using a real-life workflow").</strong>
 9. If you are looking for something more into Data Science area I recommend you to check <strong>[swirl](https://swirlstats.com/challenges "Learn R, in R.").</strong>
-10. And last but not least if you are looking for something more into Data Science area I recommend you to check <strong>[Flatiron School](https://flatironschool.com/ "Free online school for Mobile Developers").</strong>
+10. And last but not least, if you're looking for anything more in the area of mobile Apps and stuff I would recommend you check out <strong>[Flatiron School](https://flatironschool.com/ "Free online school for Mobile Developers").</strong>
 
 <br>
 
@@ -74,8 +84,8 @@ There are also some stuff I considerate important like:
 <br>
 
 1. Learn all the Computer Science Fundamentals and complete a Bachelor Degree at <strong>[Coursera Bachelor of Computer Science by the University of London](https://coursera.org/degrees/bachelor-of-science-computer-science-london "Complete a Bachelor Degree by the University of London").</strong>
-2. Learn JavaScript and Discord Bots stuff with Alex Flores one of the best JavaScript Developers I've ever seen in my entire life, please check <strong>[Worn Off Keys](https://courses.wornoffkeys.com/ "Worn off keys courses").</strong>
-3. Learn all you need to get your programming skills to the next level with TechLead an Ex-Google and Ex-Facebook Software Engineer and also a billionaire who is without a doubt an excellent programmer. <strong>[Tech Interview Pro](https://www.techseries.dev/ "Learn the real secrets to passing the tech interview.").</strong>
+2. Learn JavaScript and Discord Bots stuff with Alex Flores one of the best JavaScript Developers I've ever seen in my entire life, please check <strong>[Worn Off Keys](https://courses.wornoffkeys.com/ "Worn off keys courses, learn Vanilla JavaScript and other Bot related stuff for Discord").</strong>
+3. Learn all you need to get your programming skills to the next level with TechLead an Ex-Google and Ex-Facebook Software Engineer and also a billionaire who is without a doubt an excellent programmer. <strong>[Tech Interview Pro](https://www.techseries.dev/ "Learn the real secrets to passing the tech interview").</strong>
 
 </br>
 
@@ -84,7 +94,7 @@ There are also some stuff I considerate important like:
 1. Take the time you feel you need to restructure and adapt your learning within the programming area, be free and feel good about it.
 2. Don't be shy to comment your code while you are studying so it's clear to you what you're doing, things are made of levels and should scale that way.
 3. Be the person who asks questions, ask lots of questions, gather information and take proper notes accurately and clearly in your notes, be accurate and effective.
-4. During your study sessions, only move on to a new topic when you feel comfortable with something. For example if you are studying more about <strong>Data Structures</strong>, stick with it until you feel comfortable and confident about this topic when you feel comfortable you move on to new content.
+4. During your study sessions, only move on to a new topic when you feel comfortable with something. For example if you are studying more about <strong>Data Structures</strong>, stick with it by you feel comfortable and confident about this topic when you feel comfortable you move on to new content.
 5. Don't be ashamed of searching for something or just asking someone else about a topic you're not that good! `We are no encyclopedias!`
 <br><br>
 
@@ -106,11 +116,11 @@ This time I bring to you guys the definitive tool for Software Engineers, Develo
 - If you need to repeat any sequence of code more than ten times you should definitely think of ways to automate it.
 - Make your code easy to read, like:
   - Use variable names that make sense.
-  - Use Camel Case Notation.
-  - Avoid unnecessary comment lines, make objective comments with things like a briefing of what your code does, credits, what data type your function returns via a header.
+  - Use <a href="https://en.wikipedia.org/wiki/Camel_case" alt="What is Camel Case Notation" target="blank">Camel Case Notation</a>.
+  - Avoid unnecessary comment lines, make objective comments with things like a briefing of what your code does, credits, what data type your function returns and stuff like that, do that by using a header.
   - Don't comment line by line.
-    - In-line commenting is one thing, the line-by-line comment makes the code look almost unreadable.
-    - If you feel like it's necessary to document, use one single line at the top of your code or just use a multi-line comment.
+    - `In-line` commenting is one thing, the `line-by-line` comment makes the code look almost unreadable.
+    - If you feel like it's necessary to document, use one single line at the top of your code or just use a `multi-line` comment.
   - Use your comments to warn developers about possible code breaks about some legacy code or stuff like that.
   - Never leave bad written and old code commented out in the middle of all the rest of your code.
 
@@ -118,8 +128,31 @@ This time I bring to you guys the definitive tool for Software Engineers, Develo
 
 ## 4 Tips for the Work Environment as a Software Engineer
 
-- Improve every day of your life at least about `0.27%` and so at the end of the year you will have an improvement of around `98%` of yourself, be always in constant evolution and avoid daily as a person and as a professional, read books, take courses, study frameworks, languages and build projects!
+- Improve every day of your life at least about `0.27%` and so at the end of the year you will have an improvement of around `98%` of yourself, be always in constant evolution and avoid procrastination daily as a person and as a professional, read books, take courses, study frameworks, languages and build projects!
 - Never rely on `90%` or more of your paycheck for a healthy life otherwise if you lose your job it will make losing your job even more painful, frustrating and such.
 - Work is not about friendship, family, a goal or even a dream, work is about exchanging your time for money.
 - Separate your work gear from your home gear.
   - For example, let's suppose you use the computer/laptop of your company for work. Always try to keep your documents, photos, or personal stuff on your personal computer/laptop, cloud systems, but never ever store your personal stuff on a work gear.
+
+<br><br>
+
+# Credits
+
+
+## Creator
+This repository was originally created, written and edited by [Douglas Kitagawa](https://github.com/sdkitagwa "sdkitagawa's Github Profile").
+
+<br>
+
+## Collaborators
+
+<br>
+
+| <center>Collaborators</center> | <center>Revision</center> |  <center>English</center> | <center>Spanish</center> | <center>Portuguese</center> | <center>Japanese</center> |
+| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| <a href="https://github.com/sdkitagwa" alt="sdkitagawa Github Profile" target="blank">sdkitagawa</a> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> |
+
+<br>
+
+## Licence
+This project works under the license [Apache License v2.0](https://www.apache.org/licenses/LICENSE-2.0 "Apache License 2.0"), in case of changes, redistribution and modification please keep the credits to the creator and to collaborators.
