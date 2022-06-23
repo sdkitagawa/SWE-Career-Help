@@ -1,7 +1,7 @@
 # SE Career Help
 ## Software Engineering - Career Help
 
-Information
+Menu
 ---
   - [What is this repository?](#what-is-this-repository)
   - [The best skill for a Software Engineer](#the-best-skill-for-a-software-engineer)
@@ -10,6 +10,7 @@ Information
   - [Good Websites to practice coding](#good-websites-to-practice-coding)
   - [5 Tips for a Junior Software Engineer](#5-tips-for-a-junior-software-engineers)
   - [How to be a successful Software Engineer](#how-to-be-a-successful-software-engineer)
+  - [The Best Searching Engine for Software Engineers](#the-best-searching-engine-for-software-engineers)
   - [Best Software Engineer Tips](#best-software-engineer-tips)
   - [4 Tips for the Work Environment as a Software Engineer](#4-tips-for-the-work-environment-as-a-software-engineer)
   - [Credits](#credits)
@@ -140,7 +141,7 @@ This time I bring to you guys the definitive tool for Software Engineers, Develo
 
 
 ## Creator
-This repository was originally created, written and edited by [Douglas Kitagawa](https://github.com/sdkitagwa "sdkitagawa's Github Profile").
+This repository was originally created, written and edited by <a href="https://github.com/sdkitagawa" alt="sdkitagawa's Github Profile" target="blank">Douglas Kitagawa</a>.
 
 <br>
 
@@ -150,7 +151,7 @@ This repository was originally created, written and edited by [Douglas Kitagawa]
 
 | <center>Collaborators</center> | <center>Revision</center> |  <center>English</center> | <center>Spanish</center> | <center>Portuguese</center> | <center>Japanese</center> |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| <a href="https://github.com/sdkitagwa" alt="sdkitagawa Github Profile" target="blank">sdkitagawa</a> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> |
+| <a href="https://github.com/sdkitagawa" alt="sdkitagawa Github Profile" target="blank">sdkitagawa</a> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> |
 
 <br>
 

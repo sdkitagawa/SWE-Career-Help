@@ -2,21 +2,22 @@
 
 ## Engenharia de Software - Ajuda de Carreira
 
-Informações
+Menu
 ---
-  - [What is this repository?](#o-que-é-este-repositório)
-  - [The best skill for a Software Engineer](#a-melhor-habilidade-para-um-engenheiro-de-software)
-  - [Build a Project](#construa-um-projeto)
-  - [Skills you must have to be a true Software Engineer](#habilidades-que-você-deve-ter-para-ser-um-verdadeiro-engenheiro-de-software)
-  - [Good Websites to practice coding](#bons-sites-para-práticar-programação)
-  - [5 Tips for a Junior Software Engineer](#5-dicas-para-um-engenheiro-de-software-junior)
-  - [How to be a successful Software Engineer](#como-ser-um-engenheiro-de-software-de-sucesso)
-  - [Best Software Engineer Tips](#as-melhores-dicas-para-engenheiros-de-software)
-  - [4 Tips for the Work Environment as a Software Engineer](#4-dicas-para-o-ambiente-de-trabalho-como-engenheiro-de-software)
-  - [Credits](#créditos)
-  - [Creator](#criador)
+  - [O que é este repositório](#o-que-é-este-repositório)
+  - [A melhor habilidade para um Engenheiro de Software](#a-melhor-habilidade-para-um-engenheiro-de-software)
+  - [Construa um Projeto](#construa-um-projeto)
+  - [Habilidades que você deve ter para ser um verdadeiro Engenheiro de Software](#habilidades-que-você-deve-ter-para-ser-um-verdadeiro-engenheiro-de-software)
+  - [Bons sites para praticar programação](#bons-sites-para-praticar-programação)
+  - [5 Dicas para um Engenheiro de Software Junior](#5-dicas-para-um-engenheiro-de-software-junior)
+  - [Como ser um Engenheiro de Software de sucesso](#como-ser-um-engenheiro-de-software-de-sucesso)
+  - [A melhor ferramenta de busca para Engenheiros de Software](#a-melhor-ferramenta-de-busca-para-engenheiros-de-software)
+  - [As Melhores Dicas para Engenheiros de Software](#as-melhores-dicas-para-engenheiros-de-software)
+  - [4 Dicas para o Ambiente de Trabalho como Engenheiro de Software](#4-dicas-para-o-ambiente-de-trabalho-como-engenheiro-de-software)
+  - [Créditos](#créditos)
+  - [Criador](#criador)
   - [Colaboradores](#colaboradores)
-  - [License](#licença)
+  - [Licença](#licença)
 </br>
 
 Disponível também em:
@@ -63,7 +64,7 @@ Existem também outras coisas que eu considero importante como:
 - Você precisa saber como trabalhar bem em equipe! Lembre-se, mesmo que você seja um bom programador por conta própria, um trabalho bem feito em equipe pode ter resultados incríveis.
 </br></br>
 
-## Bons sites para práticar programação
+## Bons sites para praticar programação
 
 ### **Gratuitos**
 <br>
@@ -141,7 +142,7 @@ Desta vez eu trago para vocês a melhor ferramenta para Engenheiros de Software,
 
 
 ## Criador
-Este repositório foi criado, escrito e editado originalmente por [Douglas Kitagawa](https://github.com/sdkitagwa "Perfil do sdkitagwa no Github").
+Este repositório foi criado, escrito e editado originalmente por [Douglas Kitagawa](https://github.com/sdkitagawa "Perfil do sdkitagwa no Github").
 
 <br>
 
@@ -151,7 +152,7 @@ Este repositório foi criado, escrito e editado originalmente por [Douglas Kitag
 
 | <center>Dicas</center> | <center>Revisão</center> | <center>Português</center> | <center>Inglês</center> | <center>Espanhol</center> | <center>Japonês</center> |
 | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| <a href="https://github.com/sdkitagwa" alt="sdkitagawa Github Profile" target="blank">sdkitagawa</a> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> |
+| <a href="https://github.com/sdkitagawa" alt="sdkitagawa Github Profile" target="blank">sdkitagawa</a> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> |
 
 <br>
 
