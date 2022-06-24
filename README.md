@@ -72,12 +72,18 @@ There are also some stuff I considerate important like:
 2. Improve your career and also your tech skills at <strong>[Udacity](https://udacity.com/ "Learn the Latest Tech Skills; Advance Your Career").</strong>
 3. Computer Science Fundamentals, Logic, Algorithm Fundamentals, Programming with Python, Data Structures, Artificial Neural Networks and many many more free stuff at <strong>[Brillant](https://brilliant.org/ "Learn interactively").</strong>
 4. One of the best online courses out there in the field of programming, perfect for beginners who wanna learn and build their first project at <strong>[CS50 from Harvard University](https://cs50.harvard.edu/x/2022/ "Harvard University's introduction to the intellectual enterprises of computer science and the art of programming.").</strong>
-5. Angular, Java, Spring and other courses at <strong>[loiane.training](https://loiane.training/ "Angular, Java, Spring and other courses").</strong>
+5. `Angular`, `Java`, `Spring` and other courses at <strong>[loiane.training](https://loiane.training/ "Angular, Java, Spring and other courses").</strong>
 6. Learn how to code for free, build your own projects and also earn certifications at <strong>[freeCodeCamp](https://freecodecamp.org/ "Front-end Development of high quality and totally free").</strong>
 7. If you are new into the area and wanna learn or just practice your Front-End Web Development skills I recommend <strong>[Code Academy](https://codecademy.com/ "Learn to code for free").</strong>
 8. For those looking for a challenges about Front-end Web Development I'd definitely recommend <strong>[Frontend Mentor](https://frontendmentor.io/challenges "Front-end coding challenges using a real-life workflow").</strong>
-9. If you are looking for something more into Data Science area I recommend you to check <strong>[swirl](https://swirlstats.com/challenges "Learn R, in R.").</strong>
-10. And last but not least, if you're looking for anything more in the area of mobile Apps and stuff I would recommend you check out <strong>[Flatiron School](https://flatironschool.com/ "Free online school for Mobile Developers").</strong>
+9. Another Website that you can use to explore and join Front-end challenges is <strong>[Codier](https://codier.io "Explore and attempt font-end coding challenges").</strong>
+10. For those looking for some basic `HTML`, `CSS` and `JavaScript` projects to start with in Portuguese from Brazil I recommend <strong>[Dev mentor](https://devmentor.com.br "HTML, CSS and JavaScript projects").</strong>
+11. Another good website for those looking for a cool and practical way of learning FlexBox in `CSS` is <strong>[FlexBox froggy](https://flexboxfroggy.com "Learn FlexBox once and for all").</strong>
+12. This is one is special and it is for those looking for mastering your `CSS` skills, you should try the 100 days of challenges at <strong>[100 days CSS](https://100dayscss.com "100 days of CSS challenges for you to practice").</strong>
+13. If you wanna learn `Java`, `C++` and `Python` having at your disposal several details, explanations on a page with a modern design you should go to <strong>[Programiz](https://programiz.com "Learn to code in Python, C/C++, Java, and other popular programming languages with our easy to follow tutorials, examples, online compiler and references.").</strong>
+14. Now if you just wanna take a test to check how skilled you are about one of these languages `C`, `C++`, `C#`, `Lua`, `JavaScript`, `TypeScript`, `Java`, `Kotlin`, `Ruby`, `R`, `Haskell`, `SQL`, `Perl`, `PHP`, `Dart`, `Delphi`, `Assembly x86/64`, `Fortran` and many more you should definitely check <strong>[Exercism](https://exercism.org/tracks "Become \"fluent\" in your chosen programming languages by completing these tracks created by our awesome team of contributors").</strong> 
+15. If you are looking for something more into Data Science area I recommend you to check <strong>[swirl](https://swirlstats.com/challenges "Learn R, in R.").</strong> 
+16. And last but not least, if you're looking for anything more in the area of mobile Apps and stuff I would recommend you check out <strong>[Flatiron School](https://flatironschool.com/ "Free online school for Mobile Developers").</strong>
 
 <br>
 
@@ -85,8 +91,8 @@ There are also some stuff I considerate important like:
 <br>
 
 1. Learn all the Computer Science Fundamentals and complete a Bachelor Degree at <strong>[Coursera Bachelor of Computer Science by the University of London](https://coursera.org/degrees/bachelor-of-science-computer-science-london "Complete a Bachelor Degree by the University of London").</strong>
-2. Learn JavaScript and Discord Bots stuff with Alex Flores one of the best JavaScript Developers I've ever seen in my entire life, please check <strong>[Worn Off Keys](https://courses.wornoffkeys.com/ "Worn off keys courses, learn Vanilla JavaScript and other Bot related stuff for Discord").</strong>
-3. Learn all you need to get your programming skills to the next level with TechLead an Ex-Google and Ex-Facebook Software Engineer and also a billionaire who is without a doubt an excellent programmer. <strong>[Tech Interview Pro](https://www.techseries.dev/ "Learn the real secrets to passing the tech interview").</strong>
+2. Learn JavaScript and Discord Bots stuff with Alex Flores one of the best `JavaScript` Developers I've ever seen in my entire life, please check <strong>[Worn Off Keys](https://courses.wornoffkeys.com/ "Worn off keys courses, learn Vanilla JavaScript and other Bot related stuff for Discord").</strong>
+3. Learn all you need to get your programming skills to the next level with TechLead an `Ex-Google` and `Ex-Facebook` Software Engineer and also a billionaire who is without a doubt an excellent programmer. <strong>[Tech Interview Pro](https://www.techseries.dev/ "Learn the real secrets to passing the tech interview").</strong>
 
 </br>
 
