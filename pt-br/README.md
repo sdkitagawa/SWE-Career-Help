@@ -29,22 +29,22 @@ Disponível também em:
 
 ## O que é este repositório?
 
-Um repositório com o objetivo de armazenar dicas, truques e um conhecimento util para mim mesmo e talvez para outros Engenheiros de Software.
+Um repositório com o objetivo de armazenar dicas, truques e conhecimentos úteis para mim mesmo e talvez para outros Engenheiros de Software.
 </br></br>
 
 ## A melhor habilidade para um Engenheiro de Software
 
-A melhor habilidade que você pode ter como um Engenheiro de Software é a habilidade de focar em seus estudos, seu trabalho e desligar o seu celular ou colocá-lo em modo avião enquanto você estuda/trabalha.
+A melhor habilidade que você pode ter como um Engenheiro de Software é a de focar em seus estudos, seu trabalho e desligar o seu celular ou colocá-lo em modo avião enquanto você estuda/trabalha.
 </br></br>
 
 ## Construa um projeto
 
-Não seja dependente de tutoriais em vídeo, tutoriais em escritos e etc. O principal ponto em se estudar programação é criar alguma coisa! Construa um projeto quando você se sentir pronto, quando você tiver uma ideia, não precisa ser uma ideia única, não precisa ser uma ideia brilhante e nem mesmo revolucionária, só precisa ser um ponto de entrada para você ir fundo nos seus estudos e começar a construir alguma coisa, seu próprio projeto com seu próprio código que faça o que você gostaria que fosse feito.
+Não seja dependente de tutoriais em vídeo, tutoriais escritos e etc. O principal ponto de se estudar programação é criar alguma coisa! Construa um projeto quando você se sentir pronto, quando tiver uma ideia, não precisa ser uma ideia única, não precisa ser uma ideia brilhante e nem mesmo revolucionária, só precisa ser um ponto de entrada para você ir fundo nos seus estudos e começar a construir alguma coisa. Seu próprio projeto com seu próprio código que faça o que você gostaria que fosse feito.
 </br></br>
 
 ## Habilidades que você deve ter para ser um verdadeiro Engenheiro de Software
 
-Bem, aqui estão algumas das minhas sinceras recomendações sobre o que eu acho que é importante para você considerar a si mesmo o que eu gosto de chamar de <strong>um verdadeiro Engenheiro de Software</strong>.
+Bem, aqui estão algumas das minhas recomendações sinceras sobre o que eu acho que é importante para que você possa se considerar o que eu gosto de chamar de <strong>um verdadeiro Engenheiro de Software</strong>.
 
 Você definitivamente irá precisar ter alguns conhecimentos que são fundamentais para a área.
 
@@ -56,9 +56,9 @@ Você definitivamente irá precisar ter alguns conhecimentos que são fundamenta
 Existem também outras coisas que eu considero importante como:
 
 - Você precisa ser altamente preciso e altamente analítico.
-- Você precisa ser capaz de entender os problemas de seu cliente mesmo quando a comunicação entre você ele possui ruído.
-- Você deve assumir a responsabilidade de sempre estar um passo a frente de seu cliente quando se trata de possíveis melhorias no sistema ou possíveis novas funcionalidades.
-- Você com certeza deveria discutir, conversar, entrevistar e fazer muitos processos de brainstorm para coletar uma boa lista de requisitos antes de você se quer começar a escrever uma linha de código.
+- Você precisa ser capaz de entender os problemas de seu cliente mesmo em casos em que a comunicação entre vocês possui ruído.
+- Você deve assumir a responsabilidade de estar sempre um passo a frente de seu cliente quando se trata de possíveis melhorias no sistema ou possíveis funcionalidades novas.
+- Você com certeza deveria discutir, conversar, entrevistar e fazer muitos processos de brainstorm para coletar uma boa lista de requisitos antes de se quer começar a escrever uma linha de código.
 - Você precisa ser capaz de ordenar e priorizar o que precisa ser terminado primeiro e o que pode ser terminado depois.
 - Você definitivamente precisa ser capaz de decompor um problema grande em um problema menor.
 - Você precisa saber como trabalhar bem em equipe! Lembre-se, mesmo que você seja um bom programador por conta própria, um trabalho bem feito em equipe pode ter resultados incríveis.
@@ -69,20 +69,20 @@ Existem também outras coisas que eu considero importante como:
 ### **Gratuitos**
 <br>
 
-1. Definitivamente um dos melhores sites para aprendizado online em geral na minha opinião, possui uma tonelada de graduações, cursos com certificações e `100%` gratuitos no <strong>[Coursera](https://coursera.org/ "Graduações, Certificados e Cursos Online de Graça").</strong>
-2. Melhore a sua carreira e também suas habiliades na área de tecnologia na <strong>[Udacity](https://udacity.com/ "Aprenda as técnicas mais recentes dentro da área de tecnologia; Avance na sua carreira").</strong>
+1. Definitivamente um dos melhores sites para aprendizado online em geral na minha opinião. Possui uma tonelada de graduações, cursos com certificações e `100%` gratuitos no <strong>[Coursera](https://coursera.org/ "Graduações, Certificados e Cursos Online de Graça").</strong>
+2. Melhore a sua carreira e também suas habilidades na área de tecnologia acessando a <strong>[Udacity](https://udacity.com/ "Aprenda as técnicas mais recentes dentro da área de tecnologia; Avance na sua carreira").</strong>
 3. Fundamentos da Ciência da Computação, Lógica, Fundamentos de Algoritmos, Programação usando Python, Estruturas de Dados, Redes Neurais Artificiais e muitos outros conteúdos gratuitos na <strong>[Brillant](https://brilliant.org/ "Aprenda interativamente").</strong>
-4. Um dos melhores cursos que existem na área de programação, perfeito para iniciantes que queiram aprender e construir seus primeiros projetos no <strong>[CS50 from Harvard University](https://cs50.harvard.edu/x/2022/ "Introdução aos negócios da área da Ciência da Computação e a arte da Programação através da Universidade de Harvard.").</strong>
+4. Um dos melhores cursos que existem na área de programação, perfeito para iniciantes que queiram aprender e construir seus primeiros projetos no <strong>[CS50 da Universidade de Harvard](https://cs50.harvard.edu/x/2022/ "Introdução aos negócios da área da Ciência da Computação e a arte da Programação através da Universidade de Harvard.").</strong>
 5. Angular, Java, Spring e outros cursos em <strong>[loiane.training](https://loiane.training/ "Angular, Java, Spring e outros cursos").</strong>
 6. Aprenda como programar de graça, construa seus próprios projetos e ganhe certificações no <strong>[freeCodeCamp](https://freecodecamp.org/ "Desenvolvimento Web Front-End de alta qualidade e totalmente gratuito").</strong>
-7. Se você é novo na área e quer aprender ou só praticar suas habilidade de Desenvolvimento Web Front-End eu recomendo a <strong>[Code Academy](https://codecademy.com/ "Aprenda a programar de graça").</strong>
-8. Para aqueles procurando por desafios em termos de Desenvolvimento Web Front-end eu gostaria de recomendar o site <strong>[Frontend Mentor](https://frontendmentor.io/challenges "Desafios de programação usando fluxos de trabalhos da vida real").</strong>
+7. Se você é novo na área e quer aprender ou praticar suas habilidade de Desenvolvimento Web Front-End eu recomendo a <strong>[Code Academy](https://codecademy.com/ "Aprenda a programar de graça").</strong>
+8. Para aqueles procurando por desafios em termos de Desenvolvimento Web Front-end eu recomendaria o site <strong>[Frontend Mentor](https://frontendmentor.io/challenges "Desafios de programação usando fluxos de trabalhos da vida real").</strong>
 9. Outro site que você pode usar para explorar e participar de desafios Front-end é o <strong>[Codier](https://codier.io "Explore e tente participar dos desafios de programação").</strong>
 10. Para aqueles que procuram alguns projetos básicos de `HTML`, `CSS` e `JavaScript` para começar eu recomendo o <strong>[Dev mentor](https://devmentor.com.br "Projetos em HTML, CSS e JavaScripts").</strong>
-11. Outro bom site para quem procura uma forma legal e prática de aprender FlexBox em `CSS` é o <strong>[FlexBox froggy](https://flexboxfroggy.com "Aprenda FlexBox de uma for por todas").</strong>
-12. Este é especial para quem procura dominar suas habilidades de `CSS`, você deve tentar os 100 dias de desafios em <strong>[100 days CSS](https://100dayscss.com "100 dias de desafios em CSS para você praticar").</strong>
-13. Se você quer aprender `Java`, `C++` e `Python` tendo à sua disposição vários detalhes, explicações em uma página com um design moderno você deve usar o <strong>[Programiz](https://programiz.com "Aprenda a programar em Python C/C++, Java e outras linguagens de programação populares com tutoriais fáceis de seguir, exemplos, compilador online e referências.").</strong>
-14. Agora, se você quer apensar testar suas habilidades para ver0 o quão habilidoso você é em uma dessas linguagens `C`, `C++`, `C#`, `Lua`, `JavaScript`, `TypeScript`, `Java`, `Kotlin` , `Ruby`, `R`, `Haskell`, `SQL`, `Perl`, `PHP`, `Dart`, `Delphi`, `Assembly x86/64`, `Fortran` e muitos mais você deve definitivamente checar o site <strong>[Exercism](https://exercism.org/tracks "Se torne \"fluente\" em sua linguagem de programação escolhida completando as trilhas de desafios criadas por nossos incrível time e contribuidores").</strong> 
+11. Outro site muito bom para quem procura uma forma legal e prática de aprender FlexBox em `CSS` é o <strong>[FlexBox froggy](https://flexboxfroggy.com "Aprenda FlexBox de uma for por todas").</strong>
+12. Este é especial para quem procura dominar suas habilidades de `CSS`, da uma checada nos 100 dias de desafios em <strong>[100 days CSS](https://100dayscss.com "100 dias de desafios em CSS para você praticar").</strong>
+13. Se você quer aprender `Java`, `C++` e `Python` tendo à sua disposição vários detalhes, explicações em uma página com um design moderno eu recomendo que acesse a <strong>[Programiz](https://programiz.com "Aprenda a programar em Python C/C++, Java e outras linguagens de programação populares com tutoriais fáceis de seguir, exemplos, compilador online e referências.").</strong>
+14. Agora, se você quer apenas testar suas habilidades para ver o quão habilidoso você é em uma dessas linguagens `C`, `C++`, `C#`, `Lua`, `JavaScript`, `TypeScript`, `Java`, `Kotlin` , `Ruby`, `R`, `Haskell`, `SQL`, `Perl`, `PHP`, `Dart`, `Delphi`, `Assembly x86/64`, `Fortran` e muitas outras você com certeza deveria checar o site <strong>[Exercism](https://exercism.org/tracks "Se torne \"fluente\" em sua linguagem de programação escolhida completando as trilhas de desafios criadas por nossos incrível time e contribuidores").</strong> 
 15. Se você está procurando por alguma coisa dentro da área de Ciência de Dados eu recomendo que você cheque o website <strong>[swirl](https://swirlstats.com/challenges "Aprenda R, em R.").</strong>
 16. E por último mas não menos importante, se você está procurando por algo dentro da área do desenvolvimento de aplicações para dispositivos móveis eu recomendaria que você checasse o <strong>[Flatiron School](https://flatironschool.com/ "Escola online para Desenvolvedores de Aplicações para Dispositivos Móveis").</strong>
 
@@ -91,9 +91,9 @@ Existem também outras coisas que eu considero importante como:
 ### **Pagos**
 <br>
 
-1. Aprenda todos os Fundamentos da Ciência da Computação e complete uma graduação de nível bacharelado no <strong>[Coursera Bachelor of Computer Science by the University of London](https://coursera.org/degrees/bachelor-of-science-computer-science-london "Complete uma graduação de nível bacharelado na Universidade de Londres").</strong>
+1. Aprenda todos os Fundamentos da Ciência da Computação e complete uma graduação de nível bacharelado no <strong>[Coursera Curso Bacharelado em Ciência da Computação pela Universidade de Londres](https://coursera.org/degrees/bachelor-of-science-computer-science-london "Complete uma graduação de nível bacharelado na Universidade de Londres").</strong>
 2. Aprenda JavaScript e outras coisas como o Desenvolvimento de Bots para o Discord com Alex Flores um dos melhores programadores JavaScript que eu já vi em toda a minha vida, você com certeza deveria checar o curso dele em <strong>[Worn Off Keys](https://courses.wornoffkeys.com/ "Cursos do Worn off keys, aprenda o Vanilla JavaScript e outras coisas relacionadas a Bots para o Discord").</strong>
-3. Aprenda tudo que você precisa para elevar suas habilidades com TechLead um Engenheiro de Software que já trabalhou no Google e Facebook mesmo sendo um bilhionário que é sem sombra de duvidas um excelente programador em <strong>[Tech Interview Pro](https://www.techseries.dev/ "Aprenda os segredos reais necessários para passar nas intrevistas técnicas").</strong>
+3. Aprenda tudo que você precisa para elevar suas habilidades com TechLead um Engenheiro de Software que já trabalhou na Google e no Facebook  "sendo um bilhionário" (como ele mesmo diz). Ele é sem sombra de duvidas um excelente programador, saiba mais em <strong>[Tech Interview Pro](https://www.techseries.dev/ "Aprenda os segredos reais necessários para passar nas intrevistas técnicas").</strong>
 
 </br>
 
@@ -108,7 +108,7 @@ Existem também outras coisas que eu considero importante como:
 
 ## Como ser um Engenheiro de Software de sucesso
 
-Para ser bem sucessedido na vida você precisa focar no que realmente importa e o que realmente importa é o que você quer fazer. Você nunca deve se importar com o que as outras pessoas pensam, dizem ou como as pessoas iram te julgar.
+Para ser bem sucedido na vida você precisa focar no que realmente importa e o que realmente importa, é o que você quer. Você nunca deve se importar com o que as outras pessoas pensam, dizem ou como as pessoas iram te julgar.
 
 <br><br>
 
@@ -125,10 +125,10 @@ Desta vez eu trago para vocês a melhor ferramenta para Engenheiros de Software,
 - Torne a leitura do seu código fácil, por exemplo:
   - Use nomes de variáveis que façam sentido.
   - Use a técnica <a href="https://en.wikipedia.org/wiki/Camel_case" alt="What is Camel Case Notation" target="blank">Camel Case Notation</a>.
-  - Evite linhas de comentários desnecessárias, faça comentários objetivos com coisas como um resumo do que o seu código faz, créditos, que tipos de dados a sua função retorna e coisas do tipo, faça isto usando um cabeçalho.
+  - Evite linhas de comentários desnecessárias, faça comentários objetivos com coisas como, um resumo do que o seu código faz, créditos, que tipos de dados a sua função retorna, licença, parâmetros, nome do arquivo e coisas do tipo. De preferência, faça isso tudo usando um cabeçalho de código.
   - Não faça comentários linha por linha.
     - Comentar `em uma linha` é uma coisa, agora comentários `linha por linha` tornam o código praticamente ilegível.
-    - Se você se sente como se fosse necessário documentar algo, use um comentário de linha única no topo de seu código ou simplesmente use um comentário de `múltiplas linhas`.
+    - Se você sente que é necessário documentar algo, use um comentário de linha única no topo de seu código ou simplesmente use um comentário de `múltiplas linhas`.
   - Use seus comentários para alertar desenvolvedores sobre possíveis erros ou conflitos em que o seu código possa quebrar quando se trata de códigos legados ou coisas do tipo.
   - Nunca deixe código mal escrito ou código antigo comentado no meio de todo o resto do código.
 
@@ -136,11 +136,11 @@ Desta vez eu trago para vocês a melhor ferramenta para Engenheiros de Software,
 
 ## 4 Dicas para o Ambiente de Trabalho como Engenheiro de Software
 
-- Aprimore-se pelo menos `0.27%` a cada dia da sua vida, e no final do ano você terá um aprimoramento por volta de `98%` de si mesmo, sempre esteja em constante evolução e evite a procrastinação diariamente como pessoa ou como um profissional, leia livros, faça cursos, estude frameworks, linguagens e construa projetos!
+- Aprimore-se pelo menos `0.27%` a cada dia da sua vida, e no final do ano você terá um aprimoramento por volta de `98%` de si mesmo, sempre esteja em constante evolução e evite a procrastinação diariamente, seja como pessoa ou como um profissional. Leia livros, faça cursos, estude frameworks, linguagens e construa projetos!
 - Nunca dependa de `90%` ou mais do seu pagamento para uma vida saudável, caso contrário, se você vier a perder o seu emprego fará com que a perda do seu trabalho seja ainda mais dolorosa, frustrante e etc.
 - Trabalho não é sobre amizade, família, uma meta e nem mesmo um sonho, trabalho é sobre trocar o seu tempo por dinheiro.
 - Separe o seu equipamento de trabalho do seu equipamento caseiro.
-  - Por exemplo, vamos supor que você use o computador/notebook da sua empresa para trabalho. Sempre tente manter seus documentos, fotos, ou coisas pessoais no seu computador/notebook pessoal, em sistemas de nuvem, mas nunca, jamais, em circunstância alguma, armazene suas coisas pessoais em um equipamento de trabalho.
+  - Por exemplo, vamos supor que você use o computador/notebook da sua empresa para trabalho. Sempre tente manter seus documentos, fotos, ou coisas pessoais no seu computador/notebook pessoal, em sistemas de nuvem e outros, mas nunca, jamais, em circunstância alguma, armazene suas coisas pessoais em um equipamento de trabalho.
 
 <br><br>
 
