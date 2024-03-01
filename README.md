@@ -1,35 +1,94 @@
 # SE Career Help
 ## Software Engineering - Career Help
 
-Menu
----
+<br />
+
+## Contents
+- [SE Career Help](#se-career-help)
+  - [Software Engineering - Career Help](#software-engineering---career-help)
+  - [Contents](#contents)
+  - [Translations](#translations)
   - [What is this repository?](#what-is-this-repository)
+  - [How to use this repository](#how-to-use-this-repository)
+    - [How to contribute without using Git](#how-to-contribute-without-using-git)
+    - [If you're comfortable with git](#if-youre-comfortable-with-git)
   - [The best skill for a Software Engineer](#the-best-skill-for-a-software-engineer)
   - [Build a Project](#build-a-project)
   - [Skills you must have to be a true Software Engineer](#skills-you-must-have-to-be-a-true-software-engineer)
-  - [Good Websites to practice coding](#good-websites-to-practice-coding)
-  - [5 Tips for a Junior Software Engineer](#5-tips-for-a-junior-software-engineers)
+  - [Good websites to practice coding](#good-websites-to-practice-coding)
+    - [**Free**](#free)
+    - [**Premium**](#premium)
+  - [5 Tips for a Junior Software Engineers](#5-tips-for-a-junior-software-engineers)
   - [How to be a successful Software Engineer](#how-to-be-a-successful-software-engineer)
   - [The Best Searching Engine for Software Engineers](#the-best-searching-engine-for-software-engineers)
   - [Best Software Engineer Tips](#best-software-engineer-tips)
   - [4 Tips for the Work Environment as a Software Engineer](#4-tips-for-the-work-environment-as-a-software-engineer)
-  - [Credits](#credits)
+- [Credits](#credits)
   - [Creator](#creator)
   - [Collaborators](#collaborators)
-  - [License](#licence)
-</br>
+  - [Licence](#licence)
 
-Also available in:
+Translations
 ---
-  - [Spanish](./es/README.md)
-  - [Portuguese](./pt-br/README.md)
-  - [Japanese](./jp/README.md)
-</br>
+<details>
+<summary>Also available in:</summary>
+
+- [Spanish](translations/README-es.md)
+- [Portuguese](translations/README-pt-br.md)
+- [Japanese](translations/README-jp.md)
+</details>
 
 ## What is this repository?
 
 A repository for the purpose of storing tips, tricks and useful knowledge for myself and maybe other Software Engineers.
 </br></br>
+
+## How to use this repository
+
+I'm currently using the `Github's flavored markdown` to format and work on this repository if you want to contribute with translations please make sure to check more about it.
+  - [How to use GitHub-flavored markdown](https://guides.github.com/features/mastering-markdown/#GitHub-flavored-markdown)
+
+### How to contribute without using Git
+
+On this page, click the Code button near the top, then click "Download ZIP". Unzip the file and you can work with the text files.
+
+If you're open in a code editor that understands markdown, you'll see everything formatted nicely.
+
+<center>
+
+![How to download the repo as a zip file](https://i.ibb.co/Jxhj1Bm/Contribute.png)
+
+</center>
+
+### If you're comfortable with git
+
+Create a new branch so you can check items like this, just put an x in the brackets: [x]
+
+1. ***Fork the GitHub repo:*** `https://github.com/sdkitagawa/SE-Career-Help` by clicking on the Fork button.
+
+<center>
+
+![Fork the GitHub repo](https://i.ibb.co/9nc9Qxc/Fork.png)
+
+</center>
+
+1. Clone to your local repo:
+
+    ```bash
+    git clone https://github.com/<YOUR_GITHUB_USERNAME>/SE-Career-Help.git
+    cd SE-Career-Help
+    git remote add upstream https://github.com/sdkitagawa/SE-Career-Help.git
+    git remote set-url --push upstream DISABLE  # so that you don't push your personal progress back to the original repo
+    ```
+
+1. Mark all boxes with X after you completed your changes:
+
+    ```bash
+    git commit -am "Marked personal progress"
+    git pull upstream main  # keep your fork up-to-date with changes from the original repo
+
+    git push # just pushes to your fork
+    ```
 
 ## The best skill for a Software Engineer
 
@@ -155,9 +214,10 @@ This repository was originally created, written and edited by <a href="https://g
 
 <br>
 
-| <center>Collaborators</center> | <center>Revision</center> |  <center>English</center> | <center>Spanish</center> | <center>Portuguese</center> | <center>Japanese</center> |
-| ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| <a href="https://github.com/sdkitagawa" alt="sdkitagawa Github Profile" target="blank">sdkitagawa</a> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> | <center>✅</center> |
+| <center>Collaborators</center> | <center>Revision</center> |  <center>Translation</center> | <center>Indirect Contribution</center> |
+| ----------- | ----------- | ----------- | ----------- |
+| <a href="https://github.com/sdkitagawa" alt="sdkitagawa Github Profile" target="blank">sdkitagawa</a> | <center>✅</center> | <center>✅</center> | <center>❌</center> |
+| <a href="https://github.com/jwasham" alt="sdkitagawa Github Profile" target="blank">jwasham</a> | <center>❌</center> | <center>❌</center> | <center>✅</center> |
 
 <br>
 
