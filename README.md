@@ -56,7 +56,7 @@ If you're open in a code editor that understands markdown, you'll see everything
 
 <center>
 
-![How to download the repo as a zip file](https://i.ibb.co/Jxhj1Bm/Contribute.png)
+![How to download the repo as a zip file](https://i.ibb.co/h9c1hLb/Contribute.png)
 
 </center>
 
