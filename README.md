@@ -204,7 +204,6 @@ This time I bring to you guys the definitive tool for Software Engineers, Develo
 
 # Credits
 
-
 ## Creator
 This repository was originally created, written and edited by <a href="https://github.com/sdkitagawa" alt="sdkitagawa's Github Profile" target="blank">Douglas Kitagawa</a>.
 
