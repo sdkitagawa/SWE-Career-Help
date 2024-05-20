@@ -1,10 +1,10 @@
-# SE Career Help
+# SWE Career Help
 ## Software Engineering - Career Help
 
 <br />
 
 ## Contents
-- [SE Career Help](#se-career-help)
+- [SWE Career Help](#swe-career-help)
   - [Software Engineering - Career Help](#software-engineering---career-help)
   - [Contents](#contents)
   - [Translations](#translations)
